@@ -9,9 +9,7 @@
 
 # Instruction for installation
 1. Download the project and install/upload on server.
-2. Configure database and config files in the application folder eg database details, url.
-3. Code for Seller panel is inside the seller directory.
-4. Configuration for seller database and config files in the selller/application folder.
+2. Configure database and config files in the application folder eg database details, url etc.
 
 # For any kind of support please send us a email or comment bellow
 E-mail: psachan@ciesta.in
